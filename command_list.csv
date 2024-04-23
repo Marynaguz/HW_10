@@ -1,0 +1,49 @@
+    1  git clone https://github.com/Marynaguz/HW_10.git
+    2  ls -l
+    3  touch text_ignore.txt
+    4  ls -l
+    5  vim.gitignore
+    6  vim.gitignore.txt
+    7  vim..gitignore.txt
+    8  vim .gitignore
+    9  git status 
+   10  clear
+   11  cd HW_10/
+   12  touch text_ignore.txt
+   13  vim .gitignore
+   14  git status 
+   15  git add .gitignore
+   16  git commit -m 
+   17  git commit 
+   18  git commit -m 'First commit'
+   19  touch main_test.txt
+   20  ls -l
+   21  git add main_test.txt
+   22  commi
+   23  git commit -m 'Second commit
+   24  git commit -m 'Second commit' 
+   25  clear 
+   26  git status 
+   27  git commit i
+   28  q
+   29  vim 
+   30  ls -a
+   31  git log
+   32  cd '/c/Users/Admin/OneDrive/Робочий стіл/Repository_Clon/HW_10'
+   33  git status 
+   34  git add text_ignore.txt
+   35  git commit -m 'Second commit' 
+   36  git status 
+   37  git checkout -b develop
+   38  git branch
+   39  touch develop_test.txt
+   40  git add develop_test.txt
+   41  git commit -m 'Third commit'
+   42  vim develop_test.txt
+   43  git status
+   44  git add develop_test.txt
+   45  git commit -m 'Third commit second part'
+   46  git checkout main
+   47  git merge develop
+   48  git log
+   49  history > command_list.csv
